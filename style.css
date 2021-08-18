@@ -1,0 +1,26 @@
+.margin-l
+{
+    margin-left: 2%;
+
+}
+
+.m-t
+{
+    margin-top: 9px;
+}
+
+.img-siz
+{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+}
+.a-i
+{
+    text-align: center;
+}
+.margin-card{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-spacing: 10%;
+}
